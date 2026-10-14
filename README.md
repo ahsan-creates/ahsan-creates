@@ -6,7 +6,7 @@ I build mobile apps end to end: the Flutter or React Native app, the native Swif
 
 ## Open source
 
-| Package | What it does | |
+| Package | What it does | Score |
 |---|---|---|
 | [flutter_spotify_remote](https://pub.dev/packages/flutter_spotify_remote) | Control the Spotify app from Flutter: playback, live player state, OAuth with silent token refresh, and volume control. Native Swift and Kotlin on both platforms. Used in production. | 160/160 pub points |
 | [linear_date_picker](https://pub.dev/packages/linear_date_picker) | A customizable date picker with scrollable month, day and year columns. No extra dependencies. | 150 pub points |
